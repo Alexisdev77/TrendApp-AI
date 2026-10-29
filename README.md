@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Logo TrendApp AI" width="96" />
-
 # TrendApp AI
 
 **Crée ta première application mobile et obtiens tes premiers revenus.**
 
 Trouve l'idée d'application faite pour toi, reçois le prompt pour la construire avec Claude, et prépare ton lancement.
 
-[**Essayer TrendApp AI →**](https://trendappai.com)
-
-<img src="assets/apercu-onboarding.gif" alt="Aperçu : révélation des 3 idées, fiche App Store, construction du projet" width="320" />
+**Lancement très bientôt.** Mets une ⭐ au dépôt et clique sur « Watch » pour être prévenu de l'ouverture.
 
 </div>
 
@@ -33,12 +29,6 @@ Pour toi si tu veux lancer une application mobile qui rapporte, sans savoir par 
    - le prompt de construction, à coller dans Claude ;
    - selon ton offre, ton plan et ta stratégie marketing.
 5. **Tu construis ton application avec Claude**, étape par étape, puis tu la lances.
-
-<p align="center">
-  <img src="assets/capture-idees.png" alt="Les 3 idées d'applications" width="240" />
-  <img src="assets/capture-fiche.png" alt="La fiche App Store de l'idée choisie" width="240" />
-  <img src="assets/capture-carte.png" alt="La carte de lancement à partager" width="240" />
-</p>
 
 ## Ce que tu reçois
 
@@ -83,7 +73,7 @@ Voir [CHANGELOG.md](CHANGELOG.md).
 
 ## Contact
 
-Une question ? Écris à [contact@trendappai.com](mailto:contact@trendappai.com).
+Une question ? Ouvre une discussion dans l'onglet « Issues » de ce dépôt.
 
 ---
 
@@ -91,8 +81,6 @@ Une question ? Écris à [contact@trendappai.com](mailto:contact@trendappai.com)
 
 Ce dépôt présente TrendApp AI. Le code de l'application n'est pas public.
 
-Si TrendApp AI t'aide à lancer ton application, mets une ⭐ au dépôt : ça aide d'autres créateurs à le trouver.
-
-**[trendappai.com](https://trendappai.com)**
+Tu veux savoir quand TrendApp AI ouvre ? Mets une ⭐ au dépôt : ça aide aussi d'autres créateurs à le trouver.
 
 </div>

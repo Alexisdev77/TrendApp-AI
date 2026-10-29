@@ -8,6 +8,8 @@ Trouve l'idée d'application faite pour toi, reçois le prompt pour la construir
 
 **Lancement très bientôt.** Mets une ⭐ au dépôt et clique sur « Watch » pour être prévenu de l'ouverture.
 
+[English version](README.en.md)
+
 </div>
 
 ---
